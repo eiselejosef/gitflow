@@ -4,7 +4,7 @@
 
     <groupId>com.swisscom.aiko.service</groupId>
     <artifactId>parent</artifactId>
-    <version>1.4.1-SNAPSHOT</version>
+    <version>1.4.0</version>
     <name>Aiko Services Parent</name>
     <packaging>pom</packaging>
 
